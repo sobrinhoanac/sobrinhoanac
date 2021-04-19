@@ -19,7 +19,7 @@
 <!-- Links -->
 [<img src="https://img.shields.io/badge/contact@barbarasobrinho.com-000?style=for-the-badge&logo=Gmail&logoColor=ff76c7" target="_blank"/>](https://github.com/sobrinhoanac)
 [<img src="https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=minutemailer&logoColor=ff76c7" target="_blank">](https://www.linkedin.com/in/barbarasdev)
-[<img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=Linkedin&logoColor=000" target="_blank"/>](https://www.linkedin.com/in/barbarasdev)
+[<img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=Linkedin&logoColor=ff76c7" target="_blank"/>](https://www.linkedin.com/in/barbarasdev)
 
 #### Follow me:
 
@@ -28,3 +28,7 @@
 [<img src="https://img.shields.io/badge/Dev.to-000?style=for-the-badge&logo=Dev.to&logoColor=ff76c7" target="_blank"/>](https://www.dev.to/barbarasdev)
 
 <img align="center" alt="Logo" height="334" width="519" src="bs_logo.png">
+
+<br/>
+
+*Logo by Jussara Nascimento*
